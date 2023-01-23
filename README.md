@@ -1,3 +1,5 @@
+theme: modernist
+
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
 
 <br>
