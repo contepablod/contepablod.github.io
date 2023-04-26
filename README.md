@@ -19,6 +19,7 @@
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
 
 
+
 ⚡I am a Python Dev, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer 🧑‍🏫.
 
 ⚡Living in Argentina 🇦🇷.
@@ -27,16 +28,21 @@
 
 ⚡Coding in Python for 4 years 👨‍💻.
 
+⚡Python Developer at Eynes SRL
+
 ⚡Interested in Quantum Computing :atom::computer:.
-<br>![Bloch Sphere](https://logosconcarne.files.wordpress.com/2021/01/bloch-hdr.png)
 <br>⚡IBM Quantum Fall Challenge 2022 Top Ten Scored :medal_sports:.
+<br>⚡IQuHack 2023 Top Fifteen Scored :medal_sports:.
+<br>⚡QHack 2023 Visualitzation/Plotting Challenge 1st Place Prize :medal_sports:.
+<br>⚡Part-time Technical Member at Qualition
+<br>⚡Mentee at Quantum Open Source Foundation
 
 ⚡ For further info:
 
 - 🌱 I’m currently learning ML/AI/DL - Django - SQL - Quantum Computing
-- 👯 I’m looking to collaborate on ML/AI/DL
+- 👯 I’m looking to collaborate on ML/AI/DL - Quantum Computing
 - 📫 How to reach me: contepablod@outlook.com - contepablod@gmail.com
-- 💬 Ask me about: Python, ML, DL, and Oil & Gas Industry
+- 💬 Ask me about: Python, ML, DL, Quantum Computing and Oil & Gas Industry
 <br>
 
 ## &#x1F9F0; ToolBox
