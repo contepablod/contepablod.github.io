@@ -46,7 +46,7 @@
 ▶ Gauss, Abel, álgebra y topología: [LinkedIn Article](https://www.linkedin.com/pulse/gauss-abel-%25C3%25A1lgebra-y-topolog%25C3%25ADa-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
 ▶ Sobre la pedagogía en las matemáticas: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-la-pedagog%25C3%25ADa-en-las-matem%25C3%25A1ticas-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
 ▶ Sobre el papel de la intuición: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=%2B0g5TZB4Q2e%2BepvOCgpXjw%3D%3D)
-<br>
+
 📹 Latest Interviews:
 
 ▶  Entrevista con Pablo Conte, Científico de Datos y Desarrollador en Python: [YouTube Video](https://www.youtube.com/watch?v=1aFnHOMIV6M)
