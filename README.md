@@ -1,5 +1,5 @@
 <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
-**"What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function."** Letter from Schrodinger to Lorentz. June 6th, 1926.
+<strong>"What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function."</strong> Letter from Schrodinger to Lorentz. June 6th, 1926.
 <br>
 
 # Hi, I am Pablo 👋
@@ -65,3 +65,8 @@
   <br>
   <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
 </div>
+
+<strong>"If you are not completely confused by quantum mechanics, you do not understand it."</strong> John Wheeler
+
+--------------------------------------------------------------------------------------------
+Powered by Github Pages
