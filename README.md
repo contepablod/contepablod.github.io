@@ -7,14 +7,14 @@
 </head>
 <body>
     <div class="content">
-  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
-  <br>
-  "What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function." Letter from Schrodinger to Lorentz. June 6th, 1926.
-  <br>
-
-  # Hi, I am Pablo 👋
-  
-  <br>
+      <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
+      <br>
+      "What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function." Letter from Schrodinger to Lorentz. June 6th, 1926.
+      <br>
+    
+# Hi, I am Pablo 👋
+      
+<br>
   
   ![](https://komarev.com/ghpvc/?username=contepablod)
   ![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
@@ -85,8 +85,8 @@
   <img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="1000" height="500"/>
   <br>
         
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
-{% include_relative README.md %}
+  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
+  {% include_relative README.md %}
 </div>
 </body>
 </html>
