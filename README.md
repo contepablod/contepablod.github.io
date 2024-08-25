@@ -59,4 +59,3 @@
 ![Import this](https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg)  
 ![Cantor Quote](https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg)  
 ![Math GIF](https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif)
-
