@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }}</title>
+
+    <!-- Link to your custom CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    <!-- Optional additional head content -->
+    {{ content_for_head }}
+
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Here is where the README.md content will be injected -->
+    {{ content }}
+
+    <!-- Optional: Add footer or other elements here if needed -->
+</body>
+</html>
