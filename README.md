@@ -33,11 +33,11 @@
 --------------------------------------------------------------------------------------------
 [![pablo conte-1.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)&nbsp;&nbsp;
 [![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
-
+<br>
 ## &#x1F9F0; ToolBox
 --------------------------------------------------------------------------------------------
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/250px-SCIPY_2.svg.png" alt="Scipy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://preview.redd.it/c6h7rok9c2v31.jpg?width=960&crop=smart&auto=webp&v=enabled&s=28b62012dbd397ee7b9e11cc310a141957341f78" alt="Pandas Logo" width="150" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/512px-Qiskit-Logo.svg.png" alt="Qiskit Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="SQL Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" alt="Apache Spark Logo" width="100" height="50"/>&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V_NJGozQpBOydcFATALeXduFI9ipKUkQrQySaWMcHjyEsIFyhHdsH184j6a6sT_m0DI&usqp=CAU" alt="Apache Kafka Logo" width="100" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
-
+<br>
 ## 📝 Additional Info
 --------------------------------------------------------------------------------------------
 📝 Latest LinkedIn Articles:
@@ -47,16 +47,16 @@
 ▶ Gauss, Abel, álgebra y topología: [LinkedIn Article](https://www.linkedin.com/pulse/gauss-abel-%25C3%25A1lgebra-y-topolog%25C3%25ADa-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
 ▶ Sobre la pedagogía en las matemáticas: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-la-pedagog%25C3%25ADa-en-las-matem%25C3%25A1ticas-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
 ▶ Sobre el papel de la intuición: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=%2B0g5TZB4Q2e%2BepvOCgpXjw%3D%3D)
-
+<br>
 📹 Latest Interviews:
 
 ▶  Entrevista con Pablo Conte, Científico de Datos y Desarrollador en Python: [YouTube Video](https://www.youtube.com/watch?v=1aFnHOMIV6M)
-
+<br>
 ## &#x1f4c8; My GitHub Stats
 --------------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contepablod&layout=compact&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=contepablod&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ### &#x1F4CC; Always remember
 --------------------------------------------------------------------------------------------
 <div style="text-align: center;">
