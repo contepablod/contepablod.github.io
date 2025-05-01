@@ -17,7 +17,7 @@
 ⚡ EMBA Candidate @ Valar Institute 👨‍🎓.
 
 ⚡ LinkedIn Community Top AI & Algorithms Voice 2023.  
-⚡ Coding in Python for almost 6 years 👨‍💻.  
+⚡ Coding in Python for almost 7 years 👨‍💻.  
 ⚡ 10 years of experience in the Oil & Gas Industry 🛢️.  
 
 ⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 🔢 ⚛️ 💻.  
