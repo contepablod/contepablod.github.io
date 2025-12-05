@@ -1,77 +1,154 @@
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Math GIF" width="1000" height="500"/>
-<strong>"What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function."</strong> Letter from Schrodinger to Lorentz. June 6th, 1926.
-<br>
+<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Quantum Wave" width="1000"/>
 
-# Hi, I am Pablo 👋
---------------------------------------------------------------------------------------------
+> “What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function.”  
+> — Schrödinger to Lorentz, June 6th, 1926
+
+---
+
+# Hi, I’m Pablo 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=contepablod)
 ![GitHub followers](https://img.shields.io/github/followers/contepablod?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/contepablod?style=social)
 
-⚡ I am a Python Developer, Quantum Software Developer, Machine & Deep Learning Engineer, Data Scientist, Reservoir & Stimulation Engineer, and Chemical Engineer.  
-⚡ Living in Argentina 🇦🇷.
+I’m a **Python Developer**, **Quantum Software Developer**, **Machine & Deep Learning Engineer**, **Data Scientist**, and **Reservoir & Stimulation Engineer** with a background in **Chemical Engineering**, currently based in **Argentina 🇦🇷**.
 
-⚡ Machine & Deep Learning Assistant Professor @ Colegio de Matemáticas Bourbaki 👨‍🏫.  
-⚡ Quantum Computing and Quantum Technologies M. Sc. @ Democritus University of Thrace (DUTh), Greece 👨‍🎓 ⚛️ 💻.  
-⚡ EMBA Candidate @ Valar Institute 👨‍🎓.
+I enjoy working at the intersection of **mathematics, quantum computing, AI, and real-world industry problems**.
 
-⚡ LinkedIn Community Top AI & Algorithms Voice 2023.  
-⚡ Coding in Python for almost 7 years 👨‍💻.  
-⚡ 10 years of experience in the Oil & Gas Industry 🛢️.  
+---
 
-⚡ Lecturer on Linear Algebra and Basics of Quantum Computing at Qiskit Fall Fest Latino 2023 🔢 ⚛️ 💻.  
-⚡ Part-time Technical Fellow at QuantumQuipu.
+## 🚀 What I’m Doing
 
-⚡ QHack 2023 Visualization/Plotting Challenge 1st Place Prize sponsored by Atom Computing 🥇.  
-⚡ IQuHack 2023 Top Fifteen Scored 🥉.  
-⚡ IBM Quantum Fall Challenge 2022 Top Ten Scored 🥉.
+- 👨‍🏫 **Machine & Deep Learning Assistant Professor** @ Colegio de Matemáticas Bourbaki  
+- 👨‍🎓 **PhD. in Quantum Computing and Quantum Technologies** @ University of Patras, Greece  
+- 🛢️ **10+ years of experience in the Oil & Gas Industry**
 
-⚡ **For further info:**
-- 🌱 I’m currently learning AI/ML/DL - Quantum Computing - Django - SQL 
-- 👯 I’m looking to collaborate on AI/ML/DL - Quantum Computing
-- 📫 How to reach me: contepablod@outlook.com - contepablod@gmail.com
-- 💬 Ask me about: Python, AI/ML/DL, Quantum Computing and Oil & Gas Industry
+---
 
-## &#x1FAAA; Personal Info
---------------------------------------------------------------------------------------------
-[![pablo conte-1.pdf](https://img.icons8.com/officel/2x/set-as-resume.png)](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)&nbsp;&nbsp;
-[![Linkedin](https://img.icons8.com/dusk/2x/linkedin.png)](https://www.linkedin.com/in/pablo-conte)
-<br>
-## &#x1F9F0; ToolBox
---------------------------------------------------------------------------------------------
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="SKLearn Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/250px-SCIPY_2.svg.png" alt="Scipy Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://preview.redd.it/c6h7rok9c2v31.jpg?width=960&crop=smart&auto=webp&v=enabled&s=28b62012dbd397ee7b9e11cc310a141957341f78" alt="Pandas Logo" width="150" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/512px-Qiskit-Logo.svg.png" alt="Qiskit Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="SQL Logo" width="100" height="50"/>&nbsp;&nbsp;<img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" alt="Apache Spark Logo" width="100" height="50"/>&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V_NJGozQpBOydcFATALeXduFI9ipKUkQrQySaWMcHjyEsIFyhHdsH184j6a6sT_m0DI&usqp=CAU" alt="Apache Kafka Logo" width="100" height="50"/>&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="Heroku Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GIT Logo" width="50" height="50"/>
-<br>
-## 📝 Additional Info
---------------------------------------------------------------------------------------------
-📝 Latest LinkedIn Articles:
+## 🏆 Highlights & Achievements
 
-▶ Is Mathematics discovered or invented?: [LinkedIn Article](https://www.linkedin.com/pulse/mathematics-discovered-invented-pablo-conte-k9vkf/?trackingId=uk1NbYWsRlu3ZjWKT3rN9A%3D%3D)  
-▶ From Passion to Opportunity: How the Womanium Quantum Scholarship Event Fueled My Quantum Computing Path - Part 5: [LinkedIn Article](https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte-4f/?trackingId=WcjqTA2YT9u3wv1uks616A%3D%3D)  
-▶ Gauss, Abel, álgebra y topología: [LinkedIn Article](https://www.linkedin.com/pulse/gauss-abel-%25C3%25A1lgebra-y-topolog%25C3%25ADa-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
-▶ Sobre la pedagogía en las matemáticas: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-la-pedagog%25C3%25ADa-en-las-matem%25C3%25A1ticas-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
-▶ Sobre el papel de la intuición: [LinkedIn Article](https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=%2B0g5TZB4Q2e%2BepvOCgpXjw%3D%3D)
+- 🧮 **LinkedIn Community Top AI & Algorithms Voice 2023**
+- 🥇 **QHack 2023** Visualization/Plotting Challenge – 1st Place (Atom Computing)
+- 🥉 **IQuHack 2023** – Top Fifteen Scored
+- 🥉 **IBM Quantum Fall Challenge 2022** – Top Ten Scored
+- 🔢 Lecturer on **Linear Algebra & Basics of Quantum Computing** @ Qiskit Fall Fest Latino 2023
+- 👨‍🏫 Several years of experience teaching **Machine Learning / Deep Learning**
 
-📹 Latest Interviews:
+---
 
-▶  Entrevista con Pablo Conte, Científico de Datos y Desarrollador en Python: [YouTube Video](https://www.youtube.com/watch?v=1aFnHOMIV6M)
-<br>
-## &#x1f4c8; My GitHub Stats
---------------------------------------------------------------------------------------------
+## 🧰 Tech Stack
+
+### 🐍 Languages & Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### 🤖 Machine & Deep Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+### ⚛️ Quantum Computing
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
+
+### 📊 Data Engineering & Big Data
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![SQL DB](https://img.shields.io/badge/Relational%20DB-4479A1?logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🧪 Interests & Current Learning
+
+- 🌱 AI / Machine Learning / Deep Learning (theory + applications)
+- ⚛️ Quantum Computing & Quantum Algorithms
+- 🌐 Django & backend development
+- 🗄️ SQL, data modeling & data-intensive systems
+- 🛢️ Applications of AI/ML in the Oil & Gas industry
+
+---
+
+## ✍️ Writing & Articles
+
+📝 **Latest LinkedIn Articles:**
+
+- ▶ *Is Mathematics discovered or invented?* – [Read on LinkedIn](https://www.linkedin.com/pulse/mathematics-discovered-invented-pablo-conte-k9vkf/?trackingId=uk1NbYWsRlu3ZjWKT3rN9A%3D%3D)  
+- ▶ *From Passion to Opportunity: How the Womanium Quantum Scholarship Event Fueled My Quantum Computing Path – Part 5* – [Read on LinkedIn](https://www.linkedin.com/pulse/from-passion-opportunity-how-womanium-quantum-event-fueled-conte-4f/?trackingId=WcjqTA2YT9u3wv1uks616A%3D%3D)  
+- ▶ *Gauss, Abel, álgebra y topología* – [Read on LinkedIn](https://www.linkedin.com/pulse/gauss-abel-%25C3%25A1lgebra-y-topolog%25C3%25ADa-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
+- ▶ *Sobre la pedagogía en las matemáticas* – [Read on LinkedIn](https://www.linkedin.com/pulse/sobre-la-pedagog%25C3%25ADa-en-las-matem%25C3%25A1ticas-pablo-conte/?trackingId=UgjgWadYTdqSFXfe5aY4eg%3D%3D)  
+- ▶ *Sobre el papel de la intuición* – [Read on LinkedIn](https://www.linkedin.com/pulse/sobre-el-papel-de-la-intuici%25C3%25B3n-pablo-conte/?trackingId=%2B0g5TZB4Q2e%2BepvOCgpXjw%3D%3D)
+
+📹 **Interviews:**
+
+- ▶ *Entrevista con Pablo Conte, Científico de Datos y Desarrollador en Python* – [Watch on YouTube](https://www.youtube.com/watch?v=1aFnHOMIV6M)
+
+---
+
+## 📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contepablod&layout=compact&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=contepablod&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-### &#x1F4CC; Always remember
---------------------------------------------------------------------------------------------
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg" alt="Import this"/>
+
+---
+
+## 📎 Resume & Links
+
+- 📄 **Resume (CV):** [Download PDF](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)  
+- 💼 **LinkedIn:** [linkedin.com/in/pablo-conte](https://www.linkedin.com/in/pablo-conte)  
+- 📧 **Email:** contepablod@outlook.com | contepablod@gmail.com  
+
+---
+
+## 💬 Let’s Collaborate
+
+I’m open to collaborating on:
+
+- 🤖 **AI / ML / DL projects**
+- ⚛️ **Quantum Computing research & software**
+- 🛢️ **Oil & Gas data science & optimization**
+- 🎓 **Teaching, workshops, and technical talks**
+
+Feel free to reach out via **email** or **LinkedIn**.
+
+---
+
+## 📌 Always Remember
+
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/80008587/189157077-c6295841-69a1-4ff4-9f72-655774174ef2.jpg" alt="Import this" width="500"/>
+
+  <br><br>
+
+  <img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="800"/>
+
+  <br><br>
+
+  > “If you are not completely confused by quantum mechanics, you do not understand it.”  
+  > — John Wheeler
+
   <br>
-  <img src="https://quotefancy.com/media/wallpaper/3840x2160/2180421-Georg-Cantor-Quote-The-essence-of-mathematics-lies-precisely-in.jpg" alt="Cantor Quote" width="1000" height="500"/>
-  <br>
-  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math GIF" width="1000" height="500"/>
+
+  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math Wave" width="1000"/>
+
 </div>
 
-<strong>"If you are not completely confused by quantum mechanics, you do not understand it."</strong> John Wheeler
+---
 
---------------------------------------------------------------------------------------------
-Powered by Github Pages
+Powered by GitHub Pages
+
