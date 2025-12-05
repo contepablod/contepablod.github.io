@@ -1,5 +1,3 @@
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-1.gif" alt="Quantum Wave" width="1000"/>
-
 > “What is unpleasant here, and indeed directly to be objected to, is the use of complex numbers. Ψ is surely fundamentally a real function.”  
 > — Schrödinger to Lorentz, June 6th, 1926
 
@@ -143,8 +141,6 @@ Feel free to reach out via **email** or **LinkedIn**.
   > — John Wheeler
 
   <br>
-
-  <img src="https://www.thisiscolossal.com/wp-content/uploads/2017/07/wave-5.gif" alt="Math Wave" width="1000"/>
 
 </div>
 
