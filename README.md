@@ -97,16 +97,8 @@ I enjoy working at the intersection of **mathematics, quantum computing, AI, and
 
 ---
 
-## 📊 GitHub Stats
+## 📎 Links
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contepablod&layout=compact&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=contepablod&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📎 Resume & Links
-
-- 📄 **Resume (CV):** [Download PDF](https://github.com/contepablod/contepablod/files/15501988/pablo.conte-1.pdf)  
 - 💼 **LinkedIn:** [linkedin.com/in/pablo-conte](https://www.linkedin.com/in/pablo-conte)  
 - 📧 **Email:** contepablod@outlook.com | contepablod@gmail.com  
 
